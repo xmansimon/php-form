@@ -1,5 +1,5 @@
 # Project 2
-+ By: *your first and last name*
++ By: Haogang Su
 + Production URL: <http://p2.yourdomain.com>
 
 ## Outside resources

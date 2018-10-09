@@ -1,0 +1,125 @@
+{
+    "Alan": {
+      "id" : 0,
+      "year" : 1925,
+      "sex" : "male",
+      "personality" : 1
+    },
+    "Alex": {
+        "id" : 1,
+        "year" : 1925,
+        "sex" : "male",
+        "personality" : 2
+      },
+      "Andrea": {
+        "id" : 2,
+        "year" : 1925,
+        "sex" : "female",
+        "personality" : 3
+      },
+      "Bailey": {
+        "id" : 3,
+        "year" : 1925,
+        "sex" : "female",
+        "personality" : 2
+      },
+      "Bryce": {
+        "id" : 4,
+        "year" : 1925,
+        "sex" : "male",
+        "personality" : 1
+      },
+      "Evan": {
+        "id" : 5,
+        "year" : 1925,
+        "sex" : "male",
+        "personality" : 2
+      },
+      "Colin": {
+        "id" : 6,
+        "year" : 1925,
+        "sex" : "female",
+        "personality" : 3
+      },
+      "Erica": {
+        "id" : 7,
+        "year" : 1925,
+        "sex" : "female",
+        "personality" : 1
+      },
+      "Grant": {
+        "id" : 8,
+        "year" : 1925,
+        "sex" : "male",
+        "personality" : 2
+      },
+      "Joel": {
+        "id" : 9,
+        "year" : 2000,
+        "sex" : "female",
+        "personality" : 3
+      },
+      "Kaden": {
+        "id" : 10,
+        "year" : 2000,
+        "sex" : "male",
+        "personality" : 1
+      },
+      "Kaleb": {
+        "id" : 11,
+        "year" : 2000,
+        "sex" : "male",
+        "personality" : 2
+      },
+      "Karen": {
+        "id" : 12,
+        "year" : 2000,
+        "sex" : "female",
+        "personality" : 3
+      },
+      "Lilly": {
+        "id" : 13,
+        "year" : 2000,
+        "sex" : "female",
+        "personality" : 1
+      },
+      "Steven": {
+        "id" : 14,
+        "year" : 2000,
+        "sex" : "male",
+        "personality" : 2
+      },
+      "Payton": {
+        "id" : 15,
+        "year" : 1925,
+        "sex" : "male",
+        "personality" : 3
+      },    
+      "Marcus": {
+        "id" : 16,
+        "year" : 2000,
+        "sex" : "male",
+        "personality" : 1
+      },
+      "Reagan": {
+        "id" : 17,
+        "year" : 1925,
+        "sex" : "male",
+        "personality" : 2
+      },
+      "Tiffany": {
+        "id" : 18,
+        "year" : 2000,
+        "sex" : "female",
+        "personality" : 3
+      },
+      "Sophia": {
+        "id" : 19,
+        "year" : 1925,
+        "sex" : "female",
+        "personality" : 2
+      }
+    
+  }
+
+  

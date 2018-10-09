@@ -1,0 +1,40 @@
+     <div id='results'>
+            <?php if (isset($bday)): ?>
+                <div class='alert alert-primary' role='alert'>
+                    You birthday is <em><?= $bday ?></em>
+                </div>
+            <?php endif; ?>
+
+            <?php if (isset($bookCount) and $bookCount == 0): ?>
+                <div class='alert alert-warning' role='alert'>
+                    No results found
+                </div>
+            <?php endif; ?>
+
+            <?php if (isset($names)): ?>
+                <ul class='books'>
+                    <?php foreach ($names as $s => $name): ?>
+                        <li class='book'>
+                            <div class='title'><?= $s ?></div>
+                        
+                        </li>
+                    <?php endforeach ?>
+                </ul>
+            <?php endif ?>
+        </div>
+
+
+
+
+
+
+        <?php if ($hasErrors): ?>
+            <div class='errors alert alert-danger'>
+                <ul>
+                    <?php foreach ($errors as $error): ?>
+                        <li><?= $error ?></li>
+                    <?php endforeach; ?>
+                </ul>
+            </div>
+        <?php endif ?>
+    </form>
