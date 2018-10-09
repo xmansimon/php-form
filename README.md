@@ -1,6 +1,6 @@
 # Project 2
 + By: Haogang Su
-+ Production URL: <http://p2.yourdomain.com>
++ Production URL: <http://p2.ceeker.me/>
 
 ## Outside resources
 
