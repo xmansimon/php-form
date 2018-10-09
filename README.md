@@ -1,4 +1,4 @@
-# Project 2
+# Project Name Generator
 + By: Haogang Su
 + Production URL: <http://p2.ceeker.me/>
 
@@ -11,4 +11,6 @@ Name Generator: (1) Text input to indicate the birth year of the person, (2) Dro
 ## Class
 FORM.PHP
 
+## Note
+The birth year has a divide in 1990. If you were born before 1990, you will have different output from people born after 1990.
 
